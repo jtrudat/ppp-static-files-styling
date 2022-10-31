@@ -1,0 +1,18 @@
+[
+    {   
+        "pet_id": 1,
+        "pet_name": "Kiko",
+        "pet_photo": "kitty1.jpg",
+        "pet_fact": "Some cats are ambidextrous, but 40% are either left- or right-pawed"
+    },{   
+        "pet_id": 2,
+        "pet_name": "Thumper",
+        "pet_photo": "rabbit1.jpg",
+        "pet_fact": "Rabbits have almost 360° vision but are born with their eyes shut"
+    },{   
+        "pet_id": 3,
+        "pet_name": "Max",
+        "pet_photo": "doggie1.jpg",
+        "pet_fact": "A dog’s nose print is unique, much like a person’s fingerprint"
+    }
+]
